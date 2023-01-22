@@ -1,0 +1,64 @@
+header {
+color: rgb(128, 209, 232);
+font-size: 20px;
+font-weight:bold;
+text-align:center;
+}
+
+ #websiteLogo {
+   width: 90px;
+   margin: 10px;
+   border-radius: 70%;
+   }
+
+   .inline{
+   display: inline-block;
+   }
+
+   .forParagraph {
+       color: rgb(0, 0, 0);
+       font-size: 18px;
+       text-align:justify;
+       margin: 25px;
+   }
+
+      .forH3 {
+          color: rgb(0, 0, 0);
+          margin: 25px;
+      }
+
+
+ a:link {
+   background-color: transparent;
+   text-decoration: none;
+ }
+
+.carousel {
+  height: 400px !important;
+  width: 620px !important;
+  overflow: hidden;
+  margin-left: 230px;
+}
+
+  input{
+        width = 400px;
+        border: 0;
+        border-bottom: 2px solid blue;
+        font-size: large;
+        }
+
+              .forH5 {
+                  color: blue;
+                  margin-left: 250px;
+                  font-family: serif;
+              }
+
+  .button {
+          font-size: 15px;
+          border:0;
+          width:70px;
+          background: blue;
+          border-radius: 4px;
+          margin-left: 300px;
+          color:white;
+          }
